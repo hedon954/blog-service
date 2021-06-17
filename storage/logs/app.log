@@ -1,0 +1,2 @@
+2021/06/17 10:40:43 {"callers":["/Users/hedon-/go/src/blog-service/main.go: 25 main.init.0"],"level":"debug","message":"eddycjy: go-programming-tour-book/blog-service","time":1623897643321156000}
+2021/06/17 10:41:03 {"callers":["/Users/hedon-/go/src/blog-service/main.go: 23 main.init.0"],"level":"debug","message":"eddycjy: go-programming-tour-book/blog-service","time":1623897663332882000}
