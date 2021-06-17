@@ -27,6 +27,10 @@ func init() {
 	}
 }
 
+// @title 博客系统
+// @version 1.0
+// @description 用 Golang 实现的一个简单的博客后端系统
+// @termsOfService https://github.com/hedon954/blog-service
 func main() {
 
 	router := routers.NewRouter()
